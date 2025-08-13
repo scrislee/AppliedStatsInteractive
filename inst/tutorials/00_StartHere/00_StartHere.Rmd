@@ -8,7 +8,7 @@ output:
     progressive: TRUE
     
 runtime: shiny_prerendered
-description: "Start here if you are an instructor or self-study student trying to decide whether these notebooks are right for you."
+description: "Start here."
 ---
 
 ```{r setup, include=FALSE}
@@ -36,7 +36,7 @@ $$\displaystyle{2 = \frac{x - 50}{8/\sqrt{16}}}$$
 
 ###
 
-Each workbook introduces statistics content, asks students to answer questions about their understanding, and allows the user to interact with embedded R code blocks. Immediate feedback is automatically generated once responses are submitted to the questions or embedded code blocks. The code blocks typically ask students to complete example problems or to experiment with the ideas presented, but they'll sometimes be available as a simple calculation space. For all but the workbooks designated as *labs*, users can complete the tasks in the notebook without using R. That is, even if your course does not utilize R, you may find these workbooks to be of use. That being said, I would encourage everyone to embed the use of software in applied statistics coursework -- especially software that is freely, or at least widely, available.
+Each workbook introduces statistics content, asks students to answer questions about their understanding, and allows the user to interact with embedded R code blocks. Immediate feedback is automatically generated once responses are submitted to the questions or embedded code blocks. The code blocks typically ask students to complete example problems or to experiment with the ideas presented, but they'll sometimes be available as a simple calculation space. 
 
 ###
 
